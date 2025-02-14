@@ -29,7 +29,7 @@ class SampleTrader implements IPreSptLoadMod, IPostDBLoadMod
 
     constructor() {
         this.mod = "VolkovTrader"; // Set name of mod so we can log it to console later - match this to your folder name that's built for \user\mods\
-        this.traderImgPath = "user/mods/VolkovTrader/res/Volkov.jpg"; // Set path to trader image
+        this.traderImgPath = "res/Volkov.jpg"; // Set path to trader image
     }
 
     /**
