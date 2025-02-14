@@ -1,0 +1,78 @@
+{
+    "_id": "67ae94fcc9ba3302b328c2f7",
+    "working": true,
+    "availableInRaid": false,
+    "items_buy": {
+        "category": [
+            "5422acb9af1c889c16000029",
+            "5448e8d04bdc2ddf718b4569"
+        ],
+        "id_list": []
+    },
+    "items_buy_prohibited": {},
+    "customization_seller": false,
+    "name": "Volkov",
+    "surname": " ",
+    "nickname": "Volkov",
+    "location": "Downtown tarkov",
+    "avatar": "/files/trader/avatar/Volkov.jpg",
+    "balance_rub": 5000000,
+    "balance_dol": 0,
+    "balance_eur": 0,
+    "unlockedByDefault": true,
+    "discount": 0,
+    "discount_end": 0,
+    "buyer_up": true,
+    "currency": "RUB",
+    "nextResupply": 1615141448,
+    "repair": {
+        "availability": false,
+        "quality": "2",
+        "excluded_id_list": [],
+        "excluded_category": [],
+        "currency": "5449016a4bdc2d6f028b456f",
+        "currency_coefficient": 1,
+        "price_rate": 10
+    },
+    "insurance": {
+        "availability": false,
+        "min_payment": 0,
+        "min_return_hour": 0,
+        "max_return_hour": 0,
+        "max_storage_time": 99,
+        "excluded_category": []
+    },
+    "gridHeight": 150,
+    "loyaltyLevels": [{
+            "minLevel": 1,
+            "minSalesSum": 0,
+            "minStanding": 0,
+            "buy_price_coef": 38,
+            "repair_price_coef": 175,
+            "insurance_price_coef": 10,
+            "exchange_price_coef": 0,
+            "heal_price_coef": 0
+        }
+    ],
+    "sell_category": [
+        "5c94bbff86f7747ee735c08f",
+        "5efde6b4f5448336730dbd61",
+        "5e42c81886f7742a01529f57",
+        "5e42c83786f7742a021fdf3c",
+        "5c093e3486f77430cb02e593",
+        "619cbf9e0a7c3a1a2731940a",
+        "5c1e495a86f7743109743dfb",
+        "5c1d0dc586f7744baf2e7b79",
+        "5c1d0c5f86f7744bb2683cf0",
+        "5c1d0efb86f7744baf2e7b7b",
+        "5c1d0d6d86f7744bb2683e1f",
+        "5c1d0f4986f7744bb01837fa",
+        "5780cf7f2459777de4559322",
+        "5d80c60f86f77440373c4ece",
+        "5d80c62a86f7744036212b3f",
+        "5ede7a8229445733cb4c18e2",
+        "63a3a93f8a56922e82001f5d",
+        "62987dfc402c7f69bf010923",
+        "64ccc25f95763a1ae376e447"
+    ]
+}

@@ -1,0 +1,463 @@
+{
+    "items": [
+      {
+        "_name": "TerraGroup Labs access keycard",
+        "_id": "67aebd0fe5c1cbb58e240259",
+        "_tpl": "5c94bbff86f7747ee735c08f",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "Keycard with a blue marking",
+        "_id": "67af496a476c5cba22b25e4a",
+        "_tpl": "5efde6b4f5448336730dbd61",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "Object #11SR keycard",
+        "_id": "67af50dc2d6051146887b416",
+        "_tpl": "5e42c81886f7742a01529f57",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "Object #21WS keycard",
+        "_id": "67af4c22f93fbc626b4a67b5",
+        "_tpl": "5e42c83786f7742a021fdf3c",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "Dogtag case",
+        "_id": "67af4ca8838ea175a22e4cf3",
+        "_tpl": "5c093e3486f77430cb02e593",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "Keycard holder case",
+        "_id": "67af4d1d0e27048171542e45",
+        "_tpl": "619cbf9e0a7c3a1a2731940a",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "TerraGroup Labs keycard (Violet)",
+        "_id": "67af4d9f87e2ad943cd8a63d",
+        "_tpl": "5c1e495a86f7743109743dfb",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "TerraGroup Labs keycard (Green)",
+        "_id": "67af51fa7dd251d9b07c8d55",
+        "_tpl": "5c1d0dc586f7744baf2e7b79",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "TerraGroup Labs keycard (Blue)",
+        "_id": "67af527c180835bd876f45fa",
+        "_tpl": "5c1d0c5f86f7744bb2683cf0",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "TerraGroup Labs keycard (Red)",
+        "_id": "67af52ce5423d8239fc8645a",
+        "_tpl": "5c1d0efb86f7744baf2e7b7b",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "TerraGroup Labs keycard (Yellow)",
+        "_id": "67af53c2d87021e152d0de27",
+        "_tpl": "5c1d0d6d86f7744bb2683e1f",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "TerraGroup Labs keycard (Black)",
+        "_id": "67af5413e56b00acf8523d3d",
+        "_tpl": "5c1d0f4986f7744bb01837fa",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "Dorm room 314 marked key",
+        "_id": "67af547a7b11669f6d847050",
+        "_tpl": "5780cf7f2459777de4559322",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "RB-BK marked key",
+        "_id": "67af54ee49c8362aa1f37d63",
+        "_tpl": "5d80c60f86f77440373c4ece",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "RB-VO marked key",
+        "_id": "67af552968b7d4cd3e5b3414",
+        "_tpl": "5d80c62a86f7744036212b3f",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "RB-PKPM marked key",
+        "_id": "67af5560dc8624c4090eecdd",
+        "_tpl": "5ede7a8229445733cb4c18e2",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "Abandoned factory marked key",
+        "_id": "67af55ccc6d4ced0e7bd64de",
+        "_tpl": "63a3a93f8a56922e82001f5d",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_name": "Abandoned factory marked key",
+        "_id": "67af5676a168c43b21883b15",
+        "_tpl": "62987dfc402c7f69bf010923",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      },      {
+        "_name": "Mysterious room marked key",
+        "_id": "67af56cdbf60d4d25e60c3b1",
+        "_tpl": "64ccc25f95763a1ae376e447",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+      }
+    ],
+    "barter_scheme": {
+      "67aebd0fe5c1cbb58e240259": [
+        [
+          {
+            "count": 5,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af496a476c5cba22b25e4a": [
+        [
+          {
+            "count": 7,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af50dc2d6051146887b416": [
+        [
+          {
+            "count": 7,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af4c22f93fbc626b4a67b5": [
+        [
+          {
+            "count": 7,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af4ca8838ea175a22e4cf3": [
+        [
+          {
+            "count": 10,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af4d1d0e27048171542e45": [
+        [
+          {
+            "count": 10,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af4d9f87e2ad943cd8a63d": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af51fa7dd251d9b07c8d55": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af527c180835bd876f45fa": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af52ce5423d8239fc8645a": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af53c2d87021e152d0de27": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af5413e56b00acf8523d3d": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af547a7b11669f6d847050": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af54ee49c8362aa1f37d63": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af552968b7d4cd3e5b3414": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af5560dc8624c4090eecdd": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af55ccc6d4ced0e7bd64de": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af5676a168c43b21883b15": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ],
+      "67af56cdbf60d4d25e60c3b1": [
+        [
+          {
+            "count": 30,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
+      ]
+    },
+    "loyal_level_items": {
+      "67aebd0fe5c1cbb58e240259": 1,
+      "67af496a476c5cba22b25e4a": 1,
+      "67af50dc2d6051146887b416": 1,
+      "67af4c22f93fbc626b4a67b5": 1,
+      "67af4ca8838ea175a22e4cf3": 1,
+      "67af4d1d0e27048171542e45": 1,
+      "67af4d9f87e2ad943cd8a63d": 1,
+      "67af51fa7dd251d9b07c8d55": 1,
+      "67af527c180835bd876f45fa": 1,
+      "67af52ce5423d8239fc8645a": 1,
+      "67af53c2d87021e152d0de27": 1,
+      "67af5413e56b00acf8523d3d": 1,
+      "67af547a7b11669f6d847050": 1,
+      "67af54ee49c8362aa1f37d63": 1,
+      "67af552968b7d4cd3e5b3414": 1,
+      "67af5560dc8624c4090eecdd": 1,
+      "67af55ccc6d4ced0e7bd64de": 1,
+      "67af5676a168c43b21883b15": 1,
+      "67af56cdbf60d4d25e60c3b1": 1
+    }
+}
