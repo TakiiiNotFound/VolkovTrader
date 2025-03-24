@@ -233,7 +233,8 @@
           "BuyRestrictionMax": 50,
           "BuyRestrictionCurrent": 0
         }
-      },      {
+      },      
+	  {
         "_name": "Mysterious room marked key",
         "_id": "67af56cdbf60d4d25e60c3b1",
         "_tpl": "64ccc25f95763a1ae376e447",
@@ -245,7 +246,20 @@
           "BuyRestrictionMax": 50,
           "BuyRestrictionCurrent": 0
         }
-      }
+	   },
+	   {
+        "_name": "TerraGroup Labs residential unit keycard",
+        "_id": "67e16d729125669f61aaae1b",
+        "_tpl": "6711039f9e648049e50b3307",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 50,
+          "BuyRestrictionMax": 50,
+          "BuyRestrictionCurrent": 0
+        }
+	   }
     ],
     "barter_scheme": {
       "67aebd0fe5c1cbb58e240259": [
@@ -437,6 +451,16 @@
             "side": "Any"
           }
         ]
+      ],
+      "67e16d729125669f61aaae1b": [
+        [
+          {
+            "count": 10,
+            "_tpl": "59f32c3b86f77472a31742f0",
+            "level": 1,
+            "side": "Any"
+          }
+        ]
       ]
     },
     "loyal_level_items": {
@@ -458,6 +482,7 @@
       "67af5560dc8624c4090eecdd": 1,
       "67af55ccc6d4ced0e7bd64de": 1,
       "67af5676a168c43b21883b15": 1,
-      "67af56cdbf60d4d25e60c3b1": 1
+      "67af56cdbf60d4d25e60c3b1": 1,
+	  "67e16d729125669f61aaae1b": 1
     }
 }
